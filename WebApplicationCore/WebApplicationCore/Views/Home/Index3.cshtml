@@ -1,0 +1,27 @@
+﻿@model List<WebApplicationCore.Models.Kitap>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index3</title>
+</head>
+<body>
+    <h4>Kitap Sayfasına Hoş Geldiniz...</h4>
+    <br /><br />
+          <table>
+              @foreach (var k in Model)
+              {
+                  <tr>
+                      <td>@k.ID</td>
+                      <td>@k.KitapAd</td>
+                      <td>@k.Yazar</td>
+                  </tr>
+              }
+          </table>
+</body>
+</html>

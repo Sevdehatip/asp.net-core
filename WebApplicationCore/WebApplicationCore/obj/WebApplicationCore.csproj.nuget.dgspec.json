@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hatip\\source\\repos\\WebApplicationCore\\WebApplicationCore\\WebApplicationCore.csproj": {}
+    "C:\\Users\\hatip\\Documents\\GitHub\\asp.net-core\\WebApplicationCore\\WebApplicationCore\\WebApplicationCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hatip\\source\\repos\\WebApplicationCore\\WebApplicationCore\\WebApplicationCore.csproj": {
+    "C:\\Users\\hatip\\Documents\\GitHub\\asp.net-core\\WebApplicationCore\\WebApplicationCore\\WebApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hatip\\source\\repos\\WebApplicationCore\\WebApplicationCore\\WebApplicationCore.csproj",
+        "projectUniqueName": "C:\\Users\\hatip\\Documents\\GitHub\\asp.net-core\\WebApplicationCore\\WebApplicationCore\\WebApplicationCore.csproj",
         "projectName": "WebApplicationCore",
-        "projectPath": "C:\\Users\\hatip\\source\\repos\\WebApplicationCore\\WebApplicationCore\\WebApplicationCore.csproj",
+        "projectPath": "C:\\Users\\hatip\\Documents\\GitHub\\asp.net-core\\WebApplicationCore\\WebApplicationCore\\WebApplicationCore.csproj",
         "packagesPath": "C:\\Users\\hatip\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hatip\\source\\repos\\WebApplicationCore\\WebApplicationCore\\obj\\",
+        "outputPath": "C:\\Users\\hatip\\Documents\\GitHub\\asp.net-core\\WebApplicationCore\\WebApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

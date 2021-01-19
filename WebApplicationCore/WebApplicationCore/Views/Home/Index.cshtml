@@ -11,6 +11,25 @@
     <title>Index</title>
 </head>
 <body>
-    <div>Hello World. How are you?</div>
+    <div style="background-color:aqua">@DateTime.Now.ToShortDateString()</div>
+    <br />
+    <div>
+        @for(int i=1; i<=10; i++)
+        {
+            @i
+            <br />
+        }
+    </div>
+    <br />
+    <br />
+    <div style="background-color:blueviolet">
+        @{ 
+            var liste = new List<string>() { "Ankara", "Bursa", "Esk", "İzmir" };
+        }
+        @foreach(var li in liste)
+        {
+            @li <br />
+        }
+    </div>
 </body>
 </html>

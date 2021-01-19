@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using WebApplicationCore.Models;
 
 namespace WebApplicationCore.Controllers
 {
@@ -11,6 +12,20 @@ namespace WebApplicationCore.Controllers
         public IActionResult Index()
         {
             return View();
+        }
+        public IActionResult Index2()
+        {
+            return View();
+        }
+        public IActionResult Index3()
+        {
+            var Kitaplar = new List<Kitap>()
+            {
+                new Kitap() { ID=1, KitapAd="AAAAA", Yazar="Jules Verne"},
+                new Kitap() { ID=2, KitapAd="BBBBB", Yazar="Zweig"},
+                new Kitap() { ID=3, KitapAd="CCCCC", Yazar="Charles"}
+            };
+            return View(Kitaplar);
         }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nhKvPXo1cnEy9h9VMhK6JwzbsgjvD+Yacs1iE/CSbfW7VVVwO5yYNC/tSTgZt4tvSeSMlq68ICilpGNwoYhVjw==",
+  "dgSpecHash": "Nf9wbZClPh+iramUDUVwjgynnQdTDOU2bTtgBxt1eZ44GMmFYC2LpAJVYGNu8UkHzv3umuh9tHtfo1wyMPZ7+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hatip\\source\\repos\\WebApplicationCore\\WebApplicationCore\\WebApplicationCore.csproj",
+  "projectFilePath": "C:\\Users\\hatip\\Documents\\GitHub\\asp.net-core\\WebApplicationCore\\WebApplicationCore\\WebApplicationCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hatip\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\hatip\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
