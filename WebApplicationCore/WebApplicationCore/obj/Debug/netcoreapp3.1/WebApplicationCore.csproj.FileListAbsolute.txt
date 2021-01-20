@@ -208,3 +208,8 @@ C:\Users\hatip\Documents\GitHub\asp.net-core\WebApplicationCore\WebApplicationCo
 C:\Users\hatip\Documents\GitHub\asp.net-core\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreapp3.1\WebApplicationCore.genruntimeconfig.cache
 C:\Users\hatip\Documents\GitHub\asp.net-core\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index2.cshtml.g.cs
 C:\Users\hatip\Documents\GitHub\asp.net-core\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index3.cshtml.g.cs
+C:\Users\hatip\Documents\GitHub\asp.net-core\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index4.cshtml.g.cs
+C:\Users\hatip\Documents\GitHub\asp.net-core\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index5.cshtml.g.cs
+C:\Users\hatip\Documents\GitHub\asp.net-core\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index6.cshtml.g.cs
+C:\Users\hatip\Documents\GitHub\asp.net-core\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index7.cshtml.g.cs
+C:\Users\hatip\Documents\GitHub\asp.net-core\WebApplicationCore\WebApplicationCore\bin\Debug\netcoreapp3.1\libman.json

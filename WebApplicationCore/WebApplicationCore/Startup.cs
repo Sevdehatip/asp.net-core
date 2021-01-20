@@ -26,6 +26,9 @@ namespace WebApplicationCore
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            app.UseStaticFiles();
+
             app.UseRouting();
 
 

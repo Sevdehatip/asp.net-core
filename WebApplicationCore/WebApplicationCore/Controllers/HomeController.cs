@@ -27,5 +27,24 @@ namespace WebApplicationCore.Controllers
             };
             return View(Kitaplar);
         }
+
+        public IActionResult Index4()
+        {
+            ViewBag.deger1 = "Core working";
+            ViewBag.deger2 = "Core studying";
+            return View();
+        }
+        public IActionResult Index5()
+        {
+            return View();
+        }
+        public IActionResult Index6()
+        {
+            return View();
+        }
+        public IActionResult Index7()
+        {
+            return View();
+        }
     }
 }
