@@ -1,0 +1,21 @@
+﻿@model List<CoreBookcase.Models.Books>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="~/twitter-bootstrap/css/bootstrap.css" rel="stylesheet" />
+<table class="table table-bordered">
+<tr>
+    <th>ID</th>
+    <th>Book Name</th>
+    <th>Author</th>
+</tr>
+    @foreach(var k in Model)
+    {
+        <tr>
+            <td>@k.ID</td>
+            <td>@k.BookName</td>
+            <td>@k.Author</td>
+        </tr>
+    }
+</table>
