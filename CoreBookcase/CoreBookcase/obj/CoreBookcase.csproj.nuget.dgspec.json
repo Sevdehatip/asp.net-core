@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hatip\\source\\repos\\CoreBookcase\\CoreBookcase\\CoreBookcase.csproj": {}
+    "C:\\Users\\hatip\\Documents\\GitHub\\asp.net-core\\CoreBookcase\\CoreBookcase\\CoreBookcase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hatip\\source\\repos\\CoreBookcase\\CoreBookcase\\CoreBookcase.csproj": {
+    "C:\\Users\\hatip\\Documents\\GitHub\\asp.net-core\\CoreBookcase\\CoreBookcase\\CoreBookcase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hatip\\source\\repos\\CoreBookcase\\CoreBookcase\\CoreBookcase.csproj",
+        "projectUniqueName": "C:\\Users\\hatip\\Documents\\GitHub\\asp.net-core\\CoreBookcase\\CoreBookcase\\CoreBookcase.csproj",
         "projectName": "CoreBookcase",
-        "projectPath": "C:\\Users\\hatip\\source\\repos\\CoreBookcase\\CoreBookcase\\CoreBookcase.csproj",
+        "projectPath": "C:\\Users\\hatip\\Documents\\GitHub\\asp.net-core\\CoreBookcase\\CoreBookcase\\CoreBookcase.csproj",
         "packagesPath": "C:\\Users\\hatip\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hatip\\source\\repos\\CoreBookcase\\CoreBookcase\\obj\\",
+        "outputPath": "C:\\Users\\hatip\\Documents\\GitHub\\asp.net-core\\CoreBookcase\\CoreBookcase\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

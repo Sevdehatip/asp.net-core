@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kBAinHiBS5FfnGuGctjTWaRTdat6DG+5rjOCvvlLgtC3HZMuJNOe12XZAj57pKIS7PM6a6EELGNwE/LXthqS2w==",
+  "dgSpecHash": "Uzm8J/HhzLtZBb2JC05P1Wre60wiAk/PqKd7prXxZCaBCHDGvt9o2IexA1BcfLtKk4nVZ+wqp+BHcvfdGLOw3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hatip\\source\\repos\\CoreBookcase\\CoreBookcase\\CoreBookcase.csproj",
+  "projectFilePath": "C:\\Users\\hatip\\Documents\\GitHub\\asp.net-core\\CoreBookcase\\CoreBookcase\\CoreBookcase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hatip\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\hatip\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
