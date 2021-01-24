@@ -21,5 +21,9 @@ namespace CoreBookcase.Controllers
             };
             return View(book);
         }
+        public IActionResult Deneme()
+        {
+            return View();
+        }
     }
 }

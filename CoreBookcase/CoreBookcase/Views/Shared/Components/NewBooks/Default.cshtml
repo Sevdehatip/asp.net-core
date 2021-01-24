@@ -1,6 +1,20 @@
-﻿
+﻿@model IEnumerable<CoreBookcase.Models.Books>
 @*
     For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
 *@
 
-<p> this components</p>
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>AD</th>
+        <th>YAZAR</th>
+    </tr>
+    @foreach (var x in Model)
+    {
+        <tr>
+            <td>@x.ID</td>
+            <td>@x.BookName</td>
+            <td>@x.Author</td>
+        </tr>
+    }
+</table>
