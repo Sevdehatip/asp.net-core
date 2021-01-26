@@ -214,3 +214,4 @@ C:\Users\hatip\Documents\GitHub\asp.net-core\CoreBookcase\CoreBookcase\obj\Debug
 C:\Users\hatip\Documents\GitHub\asp.net-core\CoreBookcase\CoreBookcase\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NewBooks\Default.cshtml.g.cs
 C:\Users\hatip\Documents\GitHub\asp.net-core\CoreBookcase\CoreBookcase\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\hatip\Documents\GitHub\asp.net-core\CoreBookcase\CoreBookcase\obj\Debug\netcoreapp3.1\Razor\Views\Home\Deneme.cshtml.g.cs
+C:\Users\hatip\Documents\GitHub\asp.net-core\CoreBookcase\CoreBookcase\obj\Debug\netcoreapp3.1\Razor\Views\Home\StaticTheme.cshtml.g.cs

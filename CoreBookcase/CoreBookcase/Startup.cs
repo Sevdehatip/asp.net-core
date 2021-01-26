@@ -32,7 +32,7 @@ namespace CoreBookcase
 
             app.UseMvc(routes =>
             {
-                routes.MapRoute("Home", "/", new { controller = "Home", action = "Deneme" });
+                routes.MapRoute("Home", "/", new { controller = "Home", action = "StaticTheme" });
             });
         }
     }

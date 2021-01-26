@@ -25,5 +25,9 @@ namespace CoreBookcase.Controllers
         {
             return View();
         }
+        public IActionResult StaticTheme()
+        {
+            return View();
+        }
     }
 }
