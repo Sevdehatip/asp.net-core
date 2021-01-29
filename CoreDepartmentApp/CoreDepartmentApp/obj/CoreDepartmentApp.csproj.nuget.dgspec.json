@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hatip\\source\\repos\\CoreDepartmentApp\\CoreDepartmentApp\\CoreDepartmentApp.csproj": {}
+    "C:\\Users\\hatip\\Documents\\GitHub\\asp.net-core\\CoreDepartmentApp\\CoreDepartmentApp\\CoreDepartmentApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hatip\\source\\repos\\CoreDepartmentApp\\CoreDepartmentApp\\CoreDepartmentApp.csproj": {
+    "C:\\Users\\hatip\\Documents\\GitHub\\asp.net-core\\CoreDepartmentApp\\CoreDepartmentApp\\CoreDepartmentApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hatip\\source\\repos\\CoreDepartmentApp\\CoreDepartmentApp\\CoreDepartmentApp.csproj",
+        "projectUniqueName": "C:\\Users\\hatip\\Documents\\GitHub\\asp.net-core\\CoreDepartmentApp\\CoreDepartmentApp\\CoreDepartmentApp.csproj",
         "projectName": "CoreDepartmentApp",
-        "projectPath": "C:\\Users\\hatip\\source\\repos\\CoreDepartmentApp\\CoreDepartmentApp\\CoreDepartmentApp.csproj",
+        "projectPath": "C:\\Users\\hatip\\Documents\\GitHub\\asp.net-core\\CoreDepartmentApp\\CoreDepartmentApp\\CoreDepartmentApp.csproj",
         "packagesPath": "C:\\Users\\hatip\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hatip\\source\\repos\\CoreDepartmentApp\\CoreDepartmentApp\\obj\\",
+        "outputPath": "C:\\Users\\hatip\\Documents\\GitHub\\asp.net-core\\CoreDepartmentApp\\CoreDepartmentApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

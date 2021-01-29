@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A3fLGi8BPGbA8COInh1VwBsV+RK376VsXxoe0xy8KHBrWIAnU9BbgCy+Q3X3mbHpZUY6JQJZUb0BNGV4mYl4jg==",
+  "dgSpecHash": "AGbhIcF299cOD0c+0Ir4rOJUwnnKFySUqjAiE6L9PWrbIbpr8ZKMp8ghkepA7UMo0jQSjYt2FAn84TH7yZ0L3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hatip\\source\\repos\\CoreDepartmentApp\\CoreDepartmentApp\\CoreDepartmentApp.csproj",
+  "projectFilePath": "C:\\Users\\hatip\\Documents\\GitHub\\asp.net-core\\CoreDepartmentApp\\CoreDepartmentApp\\CoreDepartmentApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hatip\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\hatip\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
