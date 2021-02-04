@@ -39,5 +39,11 @@ namespace CoreDepartmentApp.Controllers
 
             return RedirectToAction("Index");
         }
+
+        public IActionResult GetDepartment(int id)
+        {
+            var deps = context.departments.Find(id);
+            return View("GetDepartment", deps);
+        }
     }
 }
