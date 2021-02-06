@@ -4,7 +4,7 @@
     Layout = "~/Views/Shared/_TestLayout.cshtml";
 }
 <br />
-@using (Html.BeginForm("DepartmentUpdate", "depart", FormMethod.Post))
+@using (Html.BeginForm("UpdateDepartment", "depart", FormMethod.Post))
 {
     <b>Departman Id</b>
     @Html.TextBoxFor(x => x.id, new { @class = "form-control" })

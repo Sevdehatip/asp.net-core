@@ -45,5 +45,14 @@ namespace CoreDepartmentApp.Controllers
             var deps = context.departments.Find(id);
             return View("GetDepartment", deps);
         }
+
+        public IActionResult UpdateDepartment(department d)
+        {
+            var dep = context.departments.Find(d.id);
+            dep.departmentName = d.departmentName;
+            context.SaveChanges();
+
+            return RedirectToAction("Index");
+        }
     }
 }
