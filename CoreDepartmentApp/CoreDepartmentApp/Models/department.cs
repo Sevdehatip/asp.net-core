@@ -11,5 +11,8 @@ namespace CoreDepartmentApp.Models
         [Key]
         public int id { get; set; }
         public string departmentName { get; set; }
+
+
+        public List<employee> employees { get; set; }
     }
 }
