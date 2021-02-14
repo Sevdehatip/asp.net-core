@@ -1,0 +1,21 @@
+﻿@model CoreDepartmentApp.Models.employee
+@{
+    ViewData["Title"] = "NewEmployee";
+    Layout = "~/Views/Shared/_TestLayout.cshtml";
+}
+
+<form class="form-group" method="post">
+    Personel Adı
+    @Html.TextBoxFor(x => x.name, new { @class = "form-control" })
+    <br />
+    Personel Soyadı
+    @Html.TextBoxFor(x => x.lastname, new { @class = "form-control" })
+    <br />
+    Şehir
+    @Html.TextBoxFor(x => x.city, new { @class = "form-control" })
+    <br />
+    Personel Adı
+    @Html.DropDownListFor(x => x.department.id, (List<SelectListItem>)ViewBag.vl, new{ @class= "form-control"})
+    <br />
+    <button class="btn btn-info">Ekle</button>
+</form>
