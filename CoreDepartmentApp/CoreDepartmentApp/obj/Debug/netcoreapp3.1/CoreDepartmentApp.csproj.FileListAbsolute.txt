@@ -308,3 +308,4 @@ C:\Users\hatip\Documents\GitHub\asp.net-core\CoreDepartmentApp\CoreDepartmentApp
 C:\Users\hatip\Documents\GitHub\asp.net-core\CoreDepartmentApp\CoreDepartmentApp\obj\Debug\netcoreapp3.1\Razor\Views\Depart\GetDepartment.cshtml.g.cs
 C:\Users\hatip\Documents\GitHub\asp.net-core\CoreDepartmentApp\CoreDepartmentApp\obj\Debug\netcoreapp3.1\Razor\Views\employee\Index.cshtml.g.cs
 C:\Users\hatip\Documents\GitHub\asp.net-core\CoreDepartmentApp\CoreDepartmentApp\obj\Debug\netcoreapp3.1\Razor\Views\employee\NewEmployee.cshtml.g.cs
+C:\Users\hatip\Documents\GitHub\asp.net-core\CoreDepartmentApp\CoreDepartmentApp\obj\Debug\netcoreapp3.1\Razor\Views\Depart\DepartDetails.cshtml.g.cs

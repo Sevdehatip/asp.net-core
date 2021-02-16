@@ -54,5 +54,12 @@ namespace CoreDepartmentApp.Controllers
 
             return RedirectToAction("Index");
         }
+
+        public IActionResult DepartDetails(int id)
+        {
+            var degerler = context.employees.Where(x => x.id == id).ToList();
+
+            return View(degerler);
+        }
     }
 }
