@@ -58,7 +58,8 @@ namespace CoreDepartmentApp.Controllers
         public IActionResult DepartDetails(int id)
         {
             var degerler = context.employees.Where(x => x.id == id).ToList();
-
+            var departName = context.departments.Where(x => x.id == id).Select(y => y.departmentName).FirstOrDefault();
+            ViewBag.departname = departName;
             return View(degerler);
         }
     }
