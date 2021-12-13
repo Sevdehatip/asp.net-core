@@ -15,5 +15,6 @@ namespace CoreDepartmentApp.Models
 
         public DbSet<department> departments { get; set; }
         public DbSet<employee> employees { get; set; }
+        public DbSet<Admin> admins { get; set; }
     }
 }
